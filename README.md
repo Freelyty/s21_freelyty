@@ -3,3 +3,5 @@
  3. uvazhat starshich 
  4. uchitsya, uchitsya i eshe raz uchitsya
  5. verit v svetloe budushie
+ 6. ne otstupat i ne sdavatsya
+ 
